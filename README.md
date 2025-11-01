@@ -1,1 +1,1 @@
-# Semillero-Bioinform-tica
+# Semillero-Bioinformatica
