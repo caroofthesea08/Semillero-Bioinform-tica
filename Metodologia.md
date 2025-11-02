@@ -100,7 +100,7 @@ print(f"Archivo combinado creado: {output}")
 - Observar el alineamiento y analizar si hay mucha diferencia entre especies similares (si no tienes descargado ClustalX, puedes importar tu archivo sqs_seqs.txt en https://www.ebi.ac.uk/jdispatcher/msa/clustalo)
 
 ```
-clustalx CuOxidase_seqs.aln
+clustalx sqs_seqs.aln
 ```
 
 <img width="1803" height="670" alt="image" src="https://github.com/user-attachments/assets/c34839ea-250a-446a-b423-8e778ca6aee9" />
@@ -117,34 +117,30 @@ Imagen 4. Interfaz web de interpro
 
 ### **3.	Alineamiento de la escualeno sintasa en diversos organismos**
 
-Se realiza el mismo flujo de trabajo que en la sección 2, pero con organismos diferentes a tiburones (específicamente, microorganismos)
+Se realiza el mismo flujo de trabajo que en la sección 2, pero con organismos diferentes a tiburones (plantas, algas, levaduras y bacterias)
 
 ### **4.	Realizar árbol filogenético para determinar la distancia entre los organismos**
 
 ```
-from Bio import AlignIO, Phylo
-from Bio.Phylo.TreeConstruction import DistanceCalculator, DistanceTreeConstructor
-import matplotlib.pyplot as plt
+!sudo apt-get install -y iqtree
 
-alignment = AlignIO.read("sqs_seqs.aln", "clustal")
+!iqtree2 -s new_sqs_seqs.aln -bb 1000
+```
+- Para observar el árbol filogenético:
+```
+from Bio import Phylo
 
-calculator = DistanceCalculator('blosum62')
-distance_matrix = calculator.get_distance(alignment)
-print("\nMatriz de distancias calculada:")
+tree = Phylo.read("new_sqs_seqs.aln.treefile", "newick")
+fig, ax = plt.subplots(1, 1, figsize=(12, 8))
+Phylo.draw(tree, axes=ax)
+```
 
-constructor = DistanceTreeConstructor()
-nj_tree = constructor.nj(distance_matrix)
-
-plt.figure(figsize=(10, 8))
-Phylo.draw(nj_tree, do_show=False)
-plt.title("Árbol NJ de SQS", fontsize=14)
-plt.savefig("SQS_NJ.pdf", bbox_inches="tight")
-plt.show()
+- Para observar la matriz de distancias
+```
+!cat new_sqs_seqs.aln.mldist
 ```
 
 ### **5.	Selección de un organismo con una proteína similar**
-- Identificar los tres microorganismos con menor distancia filogenética al tiburón
-- Buscar e identificar sus características de aislamiento y supervivencia
-- Modelar las proteínas en https://swissmodel.expasy.org/ y comparar si estructura su plegamiento es similar
-- Identificar el microorganismo que cuya proteína se parezca a la del tiburón
+- Modelar las proteínas en https://swissmodel.expasy.org/ y comparar si su estructura su plegamiento es similar
+- Identificar el microorganismo que cuya proteína se parezca a la de *B. braunii*
 
