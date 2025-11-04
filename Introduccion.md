@@ -1,11 +1,15 @@
 # **Introducción**
-El escualeno es un hidrocarburo triterpénico natural (C₃₀H₅₀) que pertenece a la familia de los isoprenoides (Figura 1), compuestos involucrados en procesos celulares esenciales como la respiración, señalización, fotosíntesis y síntesis de esteroles y vitaminas (Mendes et al., 2022). Fue identificado por primera vez a inicios del siglo XX en el aceite hepático de tiburón (Squalus spp.), el cual contiene grandes concentraciones de este compuesto, lo que originó su nombre (Huang et al., 2009). Posteriormente se descubrió que el escualeno también está presente en aceites vegetales, como el de oliva, amaranto y arroz, así como en microorganismos como levaduras y microalgas, aunque en menores proporciones (Mendes et al., 2022).
+El escualeno es un hidrocarburo triterpénico natural ($C_{30}H_{50}$) que pertenece a la familia de los isoprenoides (Figura 1), compuestos involucrados en procesos celulares esenciales como la respiración, señalización, fotosíntesis y síntesis de esteroles y vitaminas (Mendes et al., 2022). Fue identificado por primera vez a inicios del siglo XX en el aceite hepático de tiburón (Squalus spp.), el cual contiene grandes concentraciones de este compuesto, lo que originó su nombre (Huang et al., 2009). Posteriormente se descubrió que el escualeno también está presente en aceites vegetales, como el de oliva, amaranto y arroz, así como en microorganismos como levaduras y microalgas, aunque en menores proporciones (Mendes et al., 2022).
 
 <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/bf371455-2af0-4ae9-b431-54fa46e40b6a" />
 
-Figura 1. Estructura química del escualeno.
+Figura 1. Estructura química del escualeno. (Fuente: https://www.merckmillipore.com)
 
 La producción de escualeno en el hígado de los tiburones ha sido tradicionalmente la principal fuente para su obtención comercial, debido a su alta concentración y pureza. No obstante, la extracción intensiva ha tenido consecuencias negativas sobre las poblaciones de tiburones y los ecosistemas marinos, lo que ha impulsado la búsqueda de alternativas sostenibles basadas en fuentes vegetales y microbianas (Mendes et al., 2022; Pichler et al., 2025). En este contexto, ciertas microalgas, hongos y levaduras se han convertido en modelos atractivos para la producción de escualeno mediante rutas biotecnológicas, dada su facilidad de cultivo, su rápida tasa de crecimiento y la posibilidad de modificar genéticamente sus rutas metabólicas (Mendes et al., 2022; Pichler et al., 2025).
+
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/46164d0d-c8ca-4fa7-b4eb-a81c9034b21d" />
+
+Figura 2. Tiburones como fuente principal de escualeno (Fuente: https://www.buenoyvegano.com)
 
 La enzima escualeno sintasa (SQS) juega un papel clave en la biosíntesis de escualeno, catalizando la conversión de dos moléculas de farnesil pirofosfato (FPP) en una molécula de escualeno, en una reacción dependiente de NADPH. Esta enzima representa un punto de control crucial en la vía del mevalonato, común en eucariotas y procariontes, siendo esencial para la formación de colesterol, fitoesteroles y ergosteroles en animales, plantas y hongos, respectivamente (Mendes et al., 2022). A pesar de que la función catalítica de la escualeno sintasa se conserva, las diferencias en su secuencia y estructura entre taxones reflejan adaptaciones evolutivas específicas, que pueden estar relacionadas con la eficiencia del metabolismo lipídico en cada organismo.
 
