@@ -21,7 +21,7 @@ Especies a las que se les hará el alineamiento:
 
 | Tiburón gato nublado o *Scyliorhinus torazame* | Tiburón bambú de bandas marrones o *Chiloscyllium punctatum* |
 |------------------------|------------------------|
-|<img width="400" height="250" alt="image" src="https://github.com/user-attachments/assets/b1be806d-cca6-4da0-9446-8ecaacbaea9b" /> <br>Fuente: https://es.aquaworld-oarai.com | <img width="400" height="250" alt="image" src="https://github.com/user-attachments/assets/b5703a4d-f55b-4e19-962c-906942e53dac" /> <br> Fuente: https://cbaquatics.ca|
+|<img width="400" height="250" alt="image" src="https://github.com/user-attachments/assets/b1be806d-cca6-4da0-9446-8ecaacbaea9b" /> <br>Fuente: https://es.aquaworld-oarai.com | <img width="400" height="250" alt="image" src="https://github.com/user-attachments/assets/ec5a3253-8248-4b04-8d28-cca6979f3d50" /> <br> Fuente: https://es.wikipedia.org|
 
 - Alineamiento entre especies.
 
@@ -48,65 +48,83 @@ Se observó que los 6 genes de las especies de tiburón tenían dominios cuya fu
 
 ### **3. Alineamiento de la escualeno sintasa en diversos organismos**
 
-Las especies a las que se les realizará el alineamiento son seleccionadas después de hacer el BLAST con la secuencia de la escualeno sintasa de *Botryococcus braunii* (entre las que habían microalgas y plantas), ya que el BLAST del tiburón sólo era similar con otras especies marinas, y *B. braunii* ha sido objeto de estudio para la producción de escualeno y demás hidrocarburos.
+Las especies a las que se les realizará el alineamiento son plantas, microalgas, levaduras y bacterias que poseen la proteína, ya que el BLAST del tiburón sólo era similar con otras especies marinas. Entre las especies elegidas se encuentran *Botryococcus braunii* y *Yarrowia lipolytica*, que han sido objeto de estudio para la producción de escualeno y demás hidrocarburos.
+
+- Selección de especies
+
+<img width="841" height="478" alt="image" src="https://github.com/user-attachments/assets/5ea78060-3b53-49f3-b720-802393f45733" />
 
 - Alineamiento entre especies.
 
-<img width="367" height="586" alt="image" src="https://github.com/user-attachments/assets/a4421c43-88a7-4c1f-abb4-4790a7b99c28" />
+<img width="363" height="547" alt="image" src="https://github.com/user-attachments/assets/de2526f5-4b30-489c-b53b-4499cd25b72b" />
 
-Imagen 8. Score de los alineamientos entre algas y plantas
+Imagen 8. Score de los alineamientos entre especies de diferentes filos
 
-<img width="1862" height="388" alt="image" src="https://github.com/user-attachments/assets/07e6ecad-0b60-499f-93fc-180ff2ddea46" />
+<img width="1858" height="456" alt="image" src="https://github.com/user-attachments/assets/d2c316c5-5a7d-4bd1-b895-94580477d11e" />
+<img width="1856" height="458" alt="image" src="https://github.com/user-attachments/assets/81650350-d7ea-4223-bb6d-4121badfb05a" />
+<img width="1861" height="456" alt="image" src="https://github.com/user-attachments/assets/d18d97a2-7e0b-414e-aac1-4ac6f14489e1" />
+<img width="1863" height="456" alt="image" src="https://github.com/user-attachments/assets/887be80c-8c79-48ac-8bc5-44c6e961bc3f" />
 
-<img width="1857" height="387" alt="image" src="https://github.com/user-attachments/assets/3e1daf50-493f-4745-b39a-f8de87223944" />
-
-<img width="1862" height="386" alt="image" src="https://github.com/user-attachments/assets/4fec9ca6-fcf3-4b4d-8576-37f84f7aef80" />
-
-<img width="1858" height="384" alt="image" src="https://github.com/user-attachments/assets/84389f68-1868-4d59-9c27-eb7f89254af7" />
-
-<img width="1863" height="385" alt="image" src="https://github.com/user-attachments/assets/6a02ed2a-0bfa-49b0-80d8-46039911fbef" />
-
-<img width="1864" height="383" alt="image" src="https://github.com/user-attachments/assets/e8fb790d-8793-4c73-b7d6-baf2989fa958" />
-
-Imagen 9. Alineamiento de *B. braunii* y 14 especies
+Imagen 9. Alineamiento de 18 especies diferentes
 
 - Verificación de los dominios de las proteínas
 
-De las 15 secuencias evaluadas, 13 de ellas poseen dominios exclusivamente con actividad escualeno sintasa:
+De las 18 secuencias evaluadas, 16 de ellas poseen todos estos dominios y familias:
 
 <img width="1227" height="576" alt="image" src="https://github.com/user-attachments/assets/bf579690-74a4-4834-a2fe-f747b2f9b13b" />
 Imagen 10. Familias y dominios de casi todas las secuencias
 
-Sin embargo, tanto en la secuencia de *C. vulgaris* como en la de *C. sorokiniana* los dominios tenían además una actividad isomerasa con unión a carbohidratos.
+Sin embargo, tanto en la secuencia de *Thalassospira marina* como en la de *Niveispirillum fermenti* los dominios tenían una bifunción escualeno sintasa y licopeno ciclasa.
 
-<img width="980" height="745" alt="image" src="https://github.com/user-attachments/assets/a83da14f-59d4-492d-9d26-edbb425aea69" />
+<img width="970" height="303" alt="image" src="https://github.com/user-attachments/assets/553b4946-b520-42d6-8cf9-6de85aca4edc" />
 
-Imagen 11. Familias y dominios de *C. vulgaris* y *C. sorokiniana*
+Imagen 11. Familias y dominios de las bacterias *T. marina* y *N. fermenti*
 
 ### **4. Realizar árbol filogenético para determinar la distancia entre los organismos**
 
-<img width="1728" height="332" alt="image" src="https://github.com/user-attachments/assets/d26f4ae4-3cd7-4226-9031-32dff3904541" />
+<img width="1920" height="394" alt="image" src="https://github.com/user-attachments/assets/eb1db6b4-6db4-4931-8e66-2905deee1406" />
 
 Imagen 12. Matriz de distancia entre las especies
 
-<img width="1040" height="679" alt="image" src="https://github.com/user-attachments/assets/0ef47628-20a3-4894-8cf8-0319ba48e91f" />
+<img width="1253" height="836" alt="image" src="https://github.com/user-attachments/assets/198e34fe-148a-4dfc-9ddf-3193b482270c" />
 
 Imagen 13. Árbol filogenético
 
-### ** 5. Selección de un organismo con una proteína similar**
 
+### **5. Selección de un organismo con una proteína similar**
 
-https://es.wikipedia.org/wiki/Carcharodon_carcharias
+|*Botryococcus braunii* |*Coccomyxa sp Obi* |
+|------------------------|------------------------|
+|<img width="200" height="350" alt="image" src="https://github.com/user-attachments/assets/25c37203-527a-42a4-839c-735ef6db7df0" /> <img width="250" height="300" alt="image" src="https://github.com/user-attachments/assets/40f3bb0f-5840-439c-950b-c6b30f06666a" /> <br>Fuente: https://www.researchgate.net| <img width="200" height="350" alt="image" src="https://github.com/user-attachments/assets/cb40bea0-6a93-47c8-b8b1-8efb218a7341" /> <img width="250" height="300" alt="image" src="https://github.com/user-attachments/assets/9f7a33d3-2988-454b-8f32-56f4db0ce1d9" /> <br>Fuente: https://en.wikipedia.org|
 
-https://acuariodealmunecar.almunecar.es/scyliorhinus-canicula/
+|*Astrephomene gubernaculifera* |*Raphidocelis subcapitata* |
+|------------------------|------------------------|
+|<img width="200" height="350" alt="image" src="https://github.com/user-attachments/assets/a26c2c25-2f80-40f8-ae1c-5286b4dd71b1" /> <img width="250" height="300" alt="image" src="https://github.com/user-attachments/assets/4689468c-079f-4d52-8042-c114f7689da7" /> <br>Fuente: https://mcc.nbrp.jp | <img width="200" height="350" alt="image" src="https://github.com/user-attachments/assets/bf392860-9f9d-4ecc-ac3c-48756d4980e7" /> <img width="250" height="300" alt="image" src="https://github.com/user-attachments/assets/53fb49a2-26f0-4051-bfc7-8027c8e81a13" /> <br>Fuente: https://www.ccap.ac.uk|
 
-https://www.oceanlight.com/spotlight.php?img=14964
+|*Alnus glutinosa* |*Ziziphus jujuba* |
+|------------------------|------------------------|
+|<img width="200" height="350" alt="image" src="https://github.com/user-attachments/assets/237d6d33-040c-4579-9ecf-d10286611a88" /> <img width="250" height="300" alt="image" src="https://github.com/user-attachments/assets/fa33e6e8-b474-4949-9315-914a6c30d627" /> <br>Fuente: https://es.wikipedia.org | <img width="200" height="350" alt="image" src="https://github.com/user-attachments/assets/fdfd5833-b32f-4e4f-89a0-d0ed1af33cb8" /> <img width="250" height="300" alt="image" src="https://github.com/user-attachments/assets/3c831a56-71ec-4c6a-a812-c7edafabc84b" /> <br>Fuente: https://colplanta.org|
 
-https://es.aquaworld-oarai.com/shark-list/scyliorhinus-torazame/
+|*Typha angustifolia* |*Cryptomeria japonica* |
+|------------------------|------------------------|
+| <img width="200" height="350" alt="image" src="https://github.com/user-attachments/assets/372157c1-321c-4662-b38c-f5c7cb20c81b" /> <img width="250" height="300" alt="image" src="https://github.com/user-attachments/assets/ba72045d-79fa-447f-9378-09c3ea6b49bb" /> <br>Fuente: https://www.gardenia.net | <img width="200" height="350" alt="image" src="https://github.com/user-attachments/assets/a8a1ea19-361f-4937-b4a8-b8660038b57c" /> <img width="250" height="300" alt="image" src="https://github.com/user-attachments/assets/a2b7f6c0-599c-4417-ab04-d189c0a3ffeb" /> <br>Fuente: https://www.vdberk.es|
 
-https://shark-references.com/species/view/Stegostoma-tigrinum
+|*Salix purpurea* |*Yarrowia lipolytica* |
+|------------------------|------------------------|
+| <img width="200" height="350" alt="image" src="https://github.com/user-attachments/assets/242c431a-3c22-45ee-8f09-615a792fed22" /> <img width="250" height="300" alt="image" src="https://github.com/user-attachments/assets/ac586679-0aca-48fc-8765-d6519682404c" /> <br>Fuente: https://www.chlorischile.cl | <img width="200" height="350" alt="image" src="https://github.com/user-attachments/assets/8546a521-781a-4592-a058-d51f0cb8a052" /> <img width="250" height="300" alt="image" src="https://github.com/user-attachments/assets/bd9b7d35-78ff-4636-a7e4-89e378c249d5" />  <br>Fuente: https://www.researchgate.net|
 
-https://cbaquatics.ca/products/brown-banded-bamboo-shark-pup
+|*Saccharomycopsis crataegensis* |*Lipomyces tetrasporus* |
+|------------------------|------------------------|
+| <img width="200" height="350" alt="image" src="https://github.com/user-attachments/assets/c03e10af-118d-4bce-9451-a4a64d29e2e3" /> <img width="250" height="300" alt="image" src="https://github.com/user-attachments/assets/62b3e7b3-9b91-4e37-b6c8-cdd6260e9dbc" /> <br>Fuente: https://www.researchgate.net | <img width="200" height="350" alt="image" src="https://github.com/user-attachments/assets/3427b7e1-53d8-455a-a103-5423f3647b1b" /> <img width="250" height="300" alt="image" src="https://github.com/user-attachments/assets/6c0fd2ad-d5fe-448d-91ce-f72f6ed5a7e2" /> <br>Fuente: https://www.researchgate.net|
 
-https://www.sharksandrays.com/epaulette-shark/
+|*Candida albicans P76055* |*Limtongia smithiae* |
+|------------------------|------------------------|
+| <img width="200" height="350" alt="image" src="https://github.com/user-attachments/assets/19d7c7ef-3237-46d8-8376-0b3c60ce6fdb" /> <img width="250" height="300" alt="image" src="https://github.com/user-attachments/assets/01b2e371-3f41-4eb6-839a-7cc535ab629e" /> <br>Fuente: https://www.insst.es |  <img width="200" height="350" alt="image" src="https://github.com/user-attachments/assets/59696cd7-ea86-4ae8-8ffc-9843b205a940" /> <img width="250" height="300" alt="image" src="https://github.com/user-attachments/assets/00b553e9-4ce4-40f3-9792-ce209f0d7eb7" /> <br>Fuente: https://www.jcm.riken.jp|
 
+|*Torulaspora globosa* |*Pyronema domesticum* |
+|------------------------|------------------------|
+| <img width="200" height="350" alt="image" src="https://github.com/user-attachments/assets/c3725af7-321b-412f-ab50-129c27fe835b" /> <img width="250" height="300" alt="image" src="https://github.com/user-attachments/assets/8f9f1b3f-2ee1-41ab-bd3f-aa4bd8196f94" /> <br>Fuente: https://www.sciencedirect.com | <img width="200" height="350" alt="image" src="https://github.com/user-attachments/assets/7297f46e-a6eb-4685-9741-258916039f16" /> <img width="250" height="300" alt="image" src="https://github.com/user-attachments/assets/8579db11-ae17-486e-9e2c-45ddc3163f8d" /> <br>Fuente: https://es.wikipedia.org|
+
+|*Thalassospira marina* |*Yarrowia lipolytica* |
+|------------------------|------------------------|
+| <img width="200" height="350" alt="image" src="https://github.com/user-attachments/assets/8026625f-d40f-48ba-9664-10a0ab0fa819" /> <img width="250" height="300" alt="image" src="https://github.com/user-attachments/assets/1bc9c53d-0071-427c-8bad-3e104711c27d" /> <br>Fuente: https://www.researchgate.net | <img width="200" height="350" alt="image" src="https://github.com/user-attachments/assets/24f66e37-accf-4e03-ac0c-2f09f168b6f3" /> <img width="250" height="300" alt="image" src="https://github.com/user-attachments/assets/d74aaca6-7cff-4e3c-90fa-ec3a795026b9" /> <br>Fuente: https://www.microbiologyresearch.org|
