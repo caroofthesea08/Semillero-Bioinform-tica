@@ -5,7 +5,7 @@ Se obtuvo el gen de una "squalene synthase-like" del tiburón blanco o *Carcharo
 
 <img width="1200" height="835" alt="image" src="https://github.com/user-attachments/assets/4b4c028a-d2ff-4ac1-aefa-07e76267dfa1" />
 
-Imagen 5. *Carcharodon carcharias* o tiburón blanco (Fuente: https://es.wikipedia.org)
+Figura 6. *Carcharodon carcharias* o tiburón blanco (Fuente: https://es.wikipedia.org)
 
 ### **2. Comparación del gen de la escualeno sintasa entre especies de tiburones**
 
