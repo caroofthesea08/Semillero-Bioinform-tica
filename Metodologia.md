@@ -29,7 +29,7 @@ Esto se realiza porque la secuencia elegida está establecida como "squalene syn
 
 <img width="887" height="340" alt="image" src="https://github.com/user-attachments/assets/77b5a3a7-4d5c-4fd5-9a33-68476a5724e4" />
 
-Imagen 2. Secuencias de tiburones más similares a la secuencia query, a las que se les hará alineamiento
+Figura 3. Secuencias de tiburones más similares a la secuencia query, a las que se les hará alineamiento
 
 - Realizar alineamiento de la secuencia query junto con las 6 secuencias elegidas de tiburones
 
@@ -105,7 +105,7 @@ clustalx sqs_seqs.aln
 
 <img width="1803" height="670" alt="image" src="https://github.com/user-attachments/assets/c34839ea-250a-446a-b423-8e778ca6aee9" />
 
-Imagen 3. Interfaz web de clustal
+Figura 4. Interfaz web de clustal
 
 
 - Entrar a https://www.ebi.ac.uk/interpro/search/sequence/ y pegar en la casilla la secuencia de aminoácidos de las proteínas elegidas para determinar si los dominios de estas corresponden con el verdadero funcionamiento de la proteína, y es el mismo entre las 6 especies elegidas.
@@ -113,7 +113,7 @@ Imagen 3. Interfaz web de clustal
 <img width="1672" height="744" alt="image" src="https://github.com/user-attachments/assets/b87d34d2-5e92-430e-bbdf-421a76a3adc1" />
 
 
-Imagen 4. Interfaz web de interpro
+Figura 5. Interfaz web de interpro
 
 ### **3.	Alineamiento de la escualeno sintasa en diversos organismos**
 
@@ -141,6 +141,6 @@ Phylo.draw(tree, axes=ax)
 ```
 
 ### **5.	Selección de un organismo con una proteína similar**
-- Modelar las proteínas en https://swissmodel.expasy.org/ y comparar si su estructura su plegamiento es similar
-- Identificar el microorganismo que cuya proteína se parezca a la de *B. braunii*
+- Modelar las proteínas en https://swissmodel.expasy.org/
+- Comparar si su estructura su plegamiento es similar
 
