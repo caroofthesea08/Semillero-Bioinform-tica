@@ -1,0 +1,30 @@
+# **Referencias**
+- Huang, Z.-R., Lin, Y.-K., & Fang, J.-Y. (2009). Biological and pharmacological activities of squalene and related compounds: Potential uses in cosmetic dermatology. Molecules, 14(1), 540–554. https://doi.org/10.3390/molecules14010540
+- Mendes, A., Azevedo-Silva, J., & Fernandes, J. C. (2022). From sharks to yeasts: Squalene in the development of vaccine adjuvants. Pharmaceuticals, 15(3), 265. https://doi.org/10.3390/ph15030265
+- Pichler, J., Agocs, A., Pisarova, L., Minami, I., Frauscher, M., & Dörr, N. (2025). Comparative study of squalane products as sustainable alternative to polyalphaolefin: Oxidation degradation products and impact on physicochemical properties. Lubricants, 13(2), 48. https://doi.org/10.3390/lubricants13020048
+- Wolosik, K., Chalecka, M., Gasiewska, G., Palka, J., & Surazynski, A. (2025). Squalane as a promising agent protecting UV-induced inhibition of collagen biosynthesis and wound healing in human dermal fibroblast. Molecules, 30(9), 1964. https://doi.org/10.3390/molecules30091964
+- Wikipedia. (2024). Carcharodon carcharias. Wikipedia, La enciclopedia libre. https://es.wikipedia.org/wiki/Carcharodon_carcharias
+- Acuario de Almuñécar. (s. f.). Scyliorhinus canicula. https://acuariodealmunecar.almunecar.es/scyliorhinus-canicula/
+- OceanLight. (s. f.). Great white shark, Carcharodon carcharias. https://www.oceanlight.com/spotlight.php?img=14964
+- Aqua World Oarai. (s. f.). Scyliorhinus torazame. https://es.aquaworld-oarai.com/shark-list/scyliorhinus-torazame/
+- Froese, R., & Pauly, D. (Eds.). (2024). Stegostoma tigrinum. Shark-References. https://shark-references.com/species/view/Stegostoma-tigrinum
+- Wikipedia. (2024). Chiloscyllium punctatum. Wikipedia, La enciclopedia libre. https://es.wikipedia.org/wiki/Chiloscyllium_punctatum
+- Sharks & Rays. (s. f.). Epaulette shark (Hemiscyllium ocellatum). https://www.sharksandrays.com/epaulette-shark/
+- Metzger, P., & Largeau, C. (2016). Botryococcus braunii. ResearchGate. https://www.researchgate.net/figure/Botryococcus-braunii_fig1_305046617
+- Wikipedia. (2024). Coccomyxa. Wikipedia. https://en.wikipedia.org/wiki/Coccomyxa
+- Microbial Culture Collection (NIES). (s. f.). Coccomyxa sp. NIES-4017. https://mcc.nbrp.jp/strainList.do?condition=Reisolated+from+TAC+157&strainId=4015&strainNumberEn=NIES-4017
+- Culture Collection of Algae and Protozoa (CCAP). (s. f.). Coccomyxa sp. CCAP 278/4. https://www.ccap.ac.uk/catalogue/strain-278-4
+- Wikipedia. (2024). Alnus glutinosa. Wikipedia, La enciclopedia libre. https://es.wikipedia.org/wiki/Alnus_glutinosa
+- ColPlanta. (s. f.). Alnus glutinosa (L.) Gaertn. https://colplanta.org/taxon/urn:lsid:ipni.org:names:719213-1
+- Gardenia.net. (s. f.). Typha angustifolia (narrowleaf cattail). https://www.gardenia.net/plant/typha-angustifolia
+- Van den Berk Trees. (s. f.). Cryptomeria japonica. https://www.vdberk.es/arboles/cryptomeria-japonica/
+- Universidad de Chile. (s. f.). Salix purpurea. Chloris Chile. https://www.chlorischile.cl/enciclopedia%20macaya/enciclopedia-angiospermas/Salicaceae/salix%20purpurea%20web.html
+- Barth, G., & Gaillardin, C. (2003). Cell morphology of Yarrowia lipolytica H222 wild-type strain during glucose adaptation. ResearchGate. https://www.researchgate.net/figure/Cell-morphology-of-Y-lipolytica-H222-wild-type-strain-during-glucose-adaptation-at_fig1_230651735
+- Lachance, M.-A., & Rosa, C. A. (2023). Microscope images of Saccharomycopsis praedatoria strain UFMG-CM-Y6632 on 2% malt extract agar. ResearchGate. https://www.researchgate.net/figure/Microscope-images-of-Saccharomycopsis-praedatoria-strain-UFMG-CM-Y6632-on-2-malt_fig1_375095806
+- Gams, W., & Samson, R. A. (1990). L-tetrasporus CBS-6050 ascospores showing longitudinal striation. ResearchGate. https://www.researchgate.net/figure/L-tetrasporus-CBS-6050-ascospores-showing-longitudinal-striation-Light-microscopy-with_fig1_275084144
+- Instituto Nacional de Seguridad y Salud en el Trabajo (INSST). (s. f.). Candida albicans. https://www.insst.es/agentes-biologicos-basebio/hongos/candida-albicans
+- Japan Collection of Microorganisms (JCM). (2025). Lipomyces smithiae (J. P. van der Walt) Kurtzman et al. JCM 8928. JCM Catalogue. https://www.jcm.riken.jp/cgi-bin/jcm/jcm_number?JCM=8928
+- ScienceDirect. (s. f.). Torulaspora. https://www.sciencedirect.com/topics/immunology-and-microbiology/torulaspora
+- Wikipedia. (2024). Pyronema domesticum. Wikipedia, La enciclopedia libre. https://es.wikipedia.org/wiki/Archivo:Pyronema_domesticum_151.jpg
+- Yoon, J. et al. (2005). Scanning electron microscopy picture of strain QMT2ᵀ. ResearchGate. https://www.researchgate.net/figure/Scanning-electron-microscopy-picture-of-strain-QMT2-T_fig1_11233390
+- Yoon, J., Kang, S.-J., Oh, T.-K., & Lee, J.-S. (2015). Niveispirillum fermenti sp. nov. International Journal of Systematic and Evolutionary Microbiology, 65(5), 1488–1494. https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijs.0.000299?crawler=true
